@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+post.md
+post-images/
+xcuserdata/
+hosted-images.json
